@@ -9,7 +9,7 @@ HOW TO RUN:
 
 Go to the root of the folder and run the following commands
 
-composer update
+composer install
 
 php -S localhost:8000
 
