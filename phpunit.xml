@@ -1,0 +1,7 @@
+<phpunit bootstrap="autoloader.php">
+    <testsuites>
+        <testsuite name="FibonacciSeries">
+            <directory>tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

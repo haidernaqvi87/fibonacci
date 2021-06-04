@@ -1,0 +1,12 @@
+{
+    "name": "salma/fibonacci",
+    "authors": [
+        {
+            "name": "haidernaqvi87",
+            "email": "hn@reachtag.de"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "7"
+    }
+}
